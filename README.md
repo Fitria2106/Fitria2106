@@ -7,7 +7,7 @@
 
 <!-- Mmpelajari -->
 <h1 align="center"> 
- Suka mempelajari <br>
+ I Love <br>
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" width="250" alt="Coding Animation">
  <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
