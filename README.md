@@ -5,9 +5,9 @@
 
 <hr></hr>
 
-<!-- Suka mempelajari -->
+<!-- Mmpelajari -->
 <h1 align="center"> 
- Learning <br>
+ Suka mempelajari <br>
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" width="250" alt="Coding Animation">
  <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
