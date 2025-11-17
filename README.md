@@ -40,3 +40,14 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fransis96&" alt="fransis96" />
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fransis96&show_icons=true&locale=en&layout=compact" alt="fransis96" />
  </p> -->
+
+ <p align="center">
+  <!-- Pilihan palette: ganti URL sesuai palette -->
+  
+  <!-- Default GitHub (light + dark auto) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fitria2106/Fitria2106/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fitria2106/Fitria2106/output/golden.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Fitria2106/Fitria2106/output/golden.svg" />
+  </picture>
+</p>
